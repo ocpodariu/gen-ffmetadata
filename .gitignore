@@ -1,0 +1,3 @@
+# Ignore binaries
+_build
+gen-ffmetadata
