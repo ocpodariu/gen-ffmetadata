@@ -1,0 +1,29 @@
+;FFMETADATA1
+title=Cycling Holiday - EuroVelo 6
+artist=Ovidiu
+episode_id=4
+year=2019
+description=Wed, 14-Aug-2019
+
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1453999
+title=From Passau to Vienna
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1454000
+END=3957999
+title=From Vienna to Budapest
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3958000
+END=6127000
+title=From Budapest to Belgrade
+
+
+[STREAM]
+title=Cycling Holiday - EuroVelo 6
